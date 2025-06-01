@@ -8,9 +8,12 @@ Each demo lives in its own GitHub repository and is deployed independently via G
 
 ## 🔗 Live Site
 
-[https://marclinder.github.io/visual-lab](https://marclinder.github.io/visual-lab) *(coming soon)*
+🔗 **Live Site**: [marclinder.github.io/visual-lab](https://marclinder.github.io/visual-lab)
+
+[https://marclinder.github.io/visual-lab](https://marclinder.github.io/visual-lab)
 
 ## 🧪 Demos
+ *(coming soon)*
 
 | Name | Live Demo | Source |
 |------|-----------|--------|
@@ -34,4 +37,4 @@ Each demo lives in its own GitHub repository and is deployed independently via G
 
 ## 📦 Project Structure
 
-This repo does **not** contain demo code. It displays and links to each indepen
+This repo does **not** contain demo code. It displays and links to each independent demo.

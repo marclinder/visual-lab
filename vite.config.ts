@@ -1,10 +1,9 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  root: '.',          // Default Vite behavior
-  publicDir: 'public',
+  base: '/visual-lab/', // Use '/' if this is your root GitHub Pages repo
   build: {
     outDir: 'dist',
     emptyOutDir: true,
-  }
+  },
 });

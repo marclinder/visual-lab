@@ -6,13 +6,14 @@ A curated gallery of visual and interactive experiments by [Marc Linder](https:/
 
 Each demo lives in its own GitHub repository and is deployed independently via GitHub Pages. This repo serves as the homepage and index of all projects, showcasing motion studies, particle systems, and real-time graphics built primarily with PixiJS and WebGL.
 
-## 🔗 Live Site
-
-🔗 **Live Site**: [marclinder.github.io/visual-lab](https://marclinder.github.io/visual-lab)
+## Live Site
 
 [https://marclinder.github.io/visual-lab](https://marclinder.github.io/visual-lab)
 
-## 🧪 Demos
+[![Deploy to GitHub Pages](https://github.com/marclinder/visual-lab/actions/workflows/deploy.yml/badge.svg)](https://github.com/marclinder/visual-lab/actions/workflows/deploy.yml)
+![Built with Vite](https://img.shields.io/badge/built%20with-vite-646cff?logo=vite&logoColor=white)
+
+## Demos
  *(coming soon)*
 
 | Name | Live Demo | Source |
@@ -27,7 +28,7 @@ Each demo lives in its own GitHub repository and is deployed independently via G
 
 > More coming soon...
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - [Vite](https://vitejs.dev/)
 - [PixiJS](https://pixijs.com/) 8.9+
@@ -35,6 +36,6 @@ Each demo lives in its own GitHub repository and is deployed independently via G
 - Tailwind CSS (optional)
 - Hosted on GitHub Pages
 
-## 📦 Project Structure
+## Project Structure
 
 This repo does **not** contain demo code. It displays and links to each independent demo.

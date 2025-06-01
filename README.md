@@ -2,7 +2,7 @@
 
 Github home page for open source demos.
 
-A curated gallery of visual and interactive experiments by [Marc Linder](https://github.com/marclinder).
+A curated gallery of visual and interactive experiments by [Marc Linder](https://marclinder.com/).
 
 Each demo lives in its own GitHub repository and is deployed independently via GitHub Pages. This repo serves as the homepage and index of all projects, showcasing motion studies, particle systems, and real-time graphics built primarily with PixiJS and WebGL.
 

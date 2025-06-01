@@ -1,0 +1,35 @@
+{
+  "name": "visual-lab",
+  "version": "1.0.0",
+  "description": "A gallery of interactive demos and screensaver-style experiments.",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marclinder/visual-lab.git"
+  },
+  "keywords": [
+    "pixijs",
+    "graphics",
+    "screensaver",
+    "demo",
+    "webgl",
+    "vite"
+  ],
+  "author": "Marc Linder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marclinder/visual-lab/issues"
+  },
+  "homepage": "https://github.com/marclinder/visual-lab#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

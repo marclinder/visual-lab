@@ -1,0 +1,18 @@
+[
+  {
+    "id": "drift",
+    "image": "drift.png",
+    "title": "Drift",
+    "description": "Real-time visuals in PixiJS, inspired by Apple’s Drift screensaver.",
+    "url": "https://marclinder.github.io/drift",
+    "repo": "https://github.com/marclinder/drift"
+  },
+  {
+    "id": "flurry",
+    "image": "drift.png",
+    "title": "Flurry",
+    "description": "3D tendrils in motion.",
+    "url": "https://marclinder.github.io/flurry",
+    "repo": "https://github.com/marclinder/flurry"
+  }
+]

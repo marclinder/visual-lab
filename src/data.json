@@ -9,10 +9,10 @@
   },
   {
     "id": "flurry",
-    "image": "drift.png",
+    "image": "flurry.jpg",
     "title": "Flurry",
     "description": "3D tendrils in motion.",
-    "url": "https://marclinder.github.io/flurry",
+    "url": "",
     "repo": "https://github.com/marclinder/flurry"
   }
 ]
